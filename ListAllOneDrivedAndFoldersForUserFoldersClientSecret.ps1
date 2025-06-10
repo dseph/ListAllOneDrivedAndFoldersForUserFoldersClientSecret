@@ -1,5 +1,5 @@
 # ListAllOneDrivedAndFoldersForUserFoldersClientSecret.ps1
-# Uses Powershell with Invoke-RestMethod and ClientSecret AppFlow oauth to list drives and folders of a specified user.
+# Uses PowerShell with Invoke-RestMethod and Client Secret AppFlow oAuth to list drives and folders of a specified user.
 # https://learn.microsoft.com/en-us/graph/api/drive-get?view=graph-rest-1.0&tabs=http
  
 Write-Output ""
